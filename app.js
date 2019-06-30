@@ -1,1 +1,1 @@
-
+var zmianna = "ciag";
