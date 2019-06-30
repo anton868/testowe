@@ -1,1 +1,1 @@
-test
+var test = "trst variable";
